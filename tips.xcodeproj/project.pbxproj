@@ -14,6 +14,7 @@
 		9C2DAB831CD848C20066C9C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C2DAB811CD848C20066C9C1 /* LaunchScreen.storyboard */; };
 		9C2DAB8E1CD848C20066C9C1 /* tipsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2DAB8D1CD848C20066C9C1 /* tipsTests.swift */; };
 		9C2DAB991CD848C20066C9C1 /* tipsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2DAB981CD848C20066C9C1 /* tipsUITests.swift */; };
+		9C2DABA71CD868010066C9C1 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2DABA61CD868010066C9C1 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9C2DAB941CD848C20066C9C1 /* tipsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C2DAB981CD848C20066C9C1 /* tipsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipsUITests.swift; sourceTree = "<group>"; };
 		9C2DAB9A1CD848C20066C9C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C2DABA61CD868010066C9C1 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		9C2DAB771CD848C20066C9C1 /* tips */ = {
 			isa = PBXGroup;
 			children = (
+				9C2DABA61CD868010066C9C1 /* SettingsViewController.swift */,
 				9C2DAB781CD848C20066C9C1 /* AppDelegate.swift */,
 				9C2DAB7A1CD848C20066C9C1 /* ViewController.swift */,
 				9C2DAB7C1CD848C20066C9C1 /* Main.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				9C2DAB7B1CD848C20066C9C1 /* ViewController.swift in Sources */,
 				9C2DAB791CD848C20066C9C1 /* AppDelegate.swift in Sources */,
+				9C2DABA71CD868010066C9C1 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
