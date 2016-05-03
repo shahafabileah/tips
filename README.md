@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-(TODO)
+![video walkthrough](./readme_content/tip_calculator.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -39,7 +39,7 @@ I first tried to animate the color of the total label, to make it go black -> gr
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2016 Shahaf Abileah
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
